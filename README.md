@@ -66,7 +66,7 @@ CLOUD_NAME = ""
 ```
 ## 📦 Installation
 # Clone repository
-git clone https://github.com/yourusername/marketplace-app.git
+git clone https://github.com/sohila-nabil/market-place.git
 
 # Install backend dependencies
 cd server
